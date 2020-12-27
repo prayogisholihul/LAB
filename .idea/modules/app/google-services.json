@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "852493541940",
+    "project_id": "platon-bc727",
+    "storage_bucket": "platon-bc727.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852493541940:android:c5cf31f3d19d84c5a7e061",
+        "android_client_info": {
+          "package_name": "com.example.platon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852493541940-ltg489gg351j0a3b4adgrblot0blu63o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.platon",
+            "certificate_hash": "11474e3b67c7b309eef6a6db01597e8b4e8d4d02"
+          }
+        },
+        {
+          "client_id": "852493541940-254sn7kh4emtjt2ei3st0dgb0v7cceid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcSpNpIUhHoiIaYktLdVD1xlamrlLNHqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852493541940-254sn7kh4emtjt2ei3st0dgb0v7cceid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
